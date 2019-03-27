@@ -1,5 +1,6 @@
 # start-here
 
+Welcome to Women Who Go Berlin! 
 
 ### Tutorials
 * [A tour of go](https://tour.golang.org/welcome/1)
